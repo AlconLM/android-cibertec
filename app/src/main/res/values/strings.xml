@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Clase2</string>
+    <string name="title">Noche de Lluvia</string>
+    <string name="date">01 Dic 2019</string>
+    <string name="message">Es una noche de lluvia. Es un buen momento para quedarse en casa :)</string>
+    <string name="btnMeGusta">ME GUSTA</string>
+    <string name="btnComentar">COMENTAR</string>
+
 </resources>
